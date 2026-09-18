@@ -27,3 +27,9 @@ BioFerm-Toolkit/
 ├── examples/
 ├── requirements.txt
 └── README.md
+## Quick Start
+
+A synthetic example dataset is provided in:
+
+```text
+examples/example_metabolites.csv
