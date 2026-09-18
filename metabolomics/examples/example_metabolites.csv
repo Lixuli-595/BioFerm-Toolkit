@@ -1,0 +1,11 @@
+Metabolite,VIP,log2FC,FDR
+Metabolite_A,1.85,2.31,0.004
+Metabolite_B,1.42,-1.76,0.012
+Metabolite_C,0.88,2.05,0.031
+Metabolite_D,2.10,0.74,0.008
+Metabolite_E,1.36,-2.24,0.003
+Metabolite_F,1.11,1.42,0.041
+Metabolite_G,1.73,-0.86,0.022
+Metabolite_H,2.25,3.18,0.001
+Metabolite_I,1.58,-2.67,0.018
+Metabolite_J,0.95,1.22,0.027
